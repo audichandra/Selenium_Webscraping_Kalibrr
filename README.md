@@ -64,5 +64,5 @@ The above visualization gives insights into how long the companies will open the
 - **Authors**: Audi Chandra  
 - **License**: [MIT License](https://github.com/audichandra/Selenium_Webscraping_Kalibrr/blob/main/LICENSE) 
 - A nod to [**Kalibrr**](https://www.kalibrr.id/id-ID/job-board/te/data/1) for providing a platform filled with rich job posting data.
-- Heartfelt gratitude to [**Algoritma Data Science School**](https://gitlab.com/algoritma4students/academy-python/capstone/web_scraping) for making available the base example of thee projects.
+- Heartfelt gratitude to [**Algoritma Data Science School**](https://gitlab.com/algoritma4students/academy-python/capstone/web_scraping) for making available the base example of the project and providing learning opportunity.
 
