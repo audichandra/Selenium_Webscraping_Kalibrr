@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalibrr Job Graph</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <header>
+        <h1>Kalibrr Job Graphs</h1>
+    </header>
+
+    <main>
+        <section class="plots">
+            {% for image in images %}
+            <div class="plot-wrapper">
+                <img src="data:image/png;base64, {{ image }}" alt="plot" class="plot-image">
+            </div>
+            {% endfor %}
+        </section>
+    </main>
+
+</body>
+
+</html>

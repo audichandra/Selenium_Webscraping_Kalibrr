@@ -1,0 +1,9 @@
+beautifulsoup4
+selenium 
+webdriver_manager
+Flask
+matplotlib
+seaborn
+pandas
+Pillow
+requests
