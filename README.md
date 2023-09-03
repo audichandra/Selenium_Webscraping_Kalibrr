@@ -36,7 +36,7 @@ To set up the environment:
    `pip install -r requirements.txt`
 
 ## File Structure
-- 'img/' : Contains the image file for the example that are used in readme.md 
+- `img/` : Contains the image file for the example that are used in readme.md 
 - `templates/`: Contains HTML files for Flask visualization.
 - `static/`: Contains static resources like CSS and JavaScript for Flask.
 - `scraping_script.py`: Python script detailing the web scraping process.
@@ -44,7 +44,7 @@ To set up the environment:
 - `README.md`: The file you're currently reading.
 
 ## Usage
-After you installed the required packages, you can navigate into 'app.py file manually and run it. Then, open your browser and navigate to http://127.0.0.1:5000 to see the visualized job listing data.
+After you installed the required packages, you can navigate into `app.py` file manually and run it. Then, open your browser and navigate to http://127.0.0.1:5000 to see the visualized job listing data.
 For a detailed explanation and code walkthrough, please refer to [Selenium Webscraping Kalibrr Notebook](https://github.com/audichandra/Selenium_Webscraping_Kalibrr/blob/main/Selenium%20web%20scraping%20Kalibrr.ipynb).
 
 ## Results
@@ -63,6 +63,6 @@ The above visualization gives insights into how long the companies will open the
 ## Acknowledgements
 - **Authors**: Audi Chandra  
 - **License**: [MIT License](https://github.com/audichandra/Selenium_Webscraping_Kalibrr/blob/main/LICENSE) 
-- A nod to **Kalibrr** for providing a platform filled with rich job posting data.
+- A nod to [**Kalibrr**](https://www.kalibrr.id/id-ID/job-board/te/data/1) for providing a platform filled with rich job posting data.
 - Heartfelt gratitude to [**Algoritma Data Science School**](https://gitlab.com/algoritma4students/academy-python/capstone/web_scraping) for making available the base example of thee projects.
 
