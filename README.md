@@ -39,7 +39,7 @@ To set up the environment:
 - `img/` : Contains the image file for the example that are used in readme.md 
 - `templates/`: Contains HTML files for Flask visualization.
 - `static/`: Contains static resources like CSS and JavaScript for Flask.
-- `scraping_script.py`: Python script detailing the web scraping process.
+- `Selenium web scraping Kalibrr.py`: Python script detailing the web scraping process.
 - `app.py`: Flask application script to showcase the results.
 - `README.md`: The file you're currently reading.
 
