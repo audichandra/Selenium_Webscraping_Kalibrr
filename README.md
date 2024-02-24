@@ -29,9 +29,9 @@ Project milestones:
 ### Installation
 To set up the environment:
 1. Clone this repository:  
-   `git clone <repo-link>`
+   `git clone https://github.com/audichandra/Selenium_Webscraping_Kalibrr.git`
 2. Navigate to the directory:  
-   `cd <repo-name>`
+   `cd Selenium_Webscraping_Kalibrr`
 3. Install the required packages:  
    `pip install -r requirements.txt`
 
